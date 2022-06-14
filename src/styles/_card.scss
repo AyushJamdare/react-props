@@ -50,3 +50,14 @@
     }
  
 }
+
+@media screen and (max-width: 45em) {
+ 
+    .card{
+        margin: 2em 1em;
+flex-direction: column;
+img{
+    width: 14rem;
+}
+    }
+  }
