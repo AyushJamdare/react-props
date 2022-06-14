@@ -1,0 +1,14 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+img{
+    max-width: 100%;
+}
+body{
+    font-family: 'Inter', sans-serif;
+    background: #aca9bb;
+}
+
+@import "./card";
